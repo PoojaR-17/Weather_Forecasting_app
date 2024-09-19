@@ -22,5 +22,5 @@ Developed a web application that allows users to search for and view weather inf
   - Developed JavaScript code to fetch data from the OpenWeatherMap API and update the UI.
   - Utilized Git and GitHub for version control and project management.
 - **Links**:
-  - [GitHub Repository](https://github.com/yourusername/your-repo-name)
+  - [GitHub Repository](https://github.com/PoojaR-17/Weather_Forecasting_app)
   -[Netlify](https://quiet-salmiakki-cb6348.netlify.app/)
